@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raza Rizwan</title>
+    <link>https://rrizwan98.github.io/Raza_portfolio/post/</link>
+    <description>Recent content in Projects on Raza Rizwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://rrizwan98.github.io/Raza_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter II: Car Detection</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-2/</link>
+      <pubDate>Mon, 18 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-2/</guid>
+      <description>we used the Open Image dataset. 990 images for train, 70 images validation, and 30 images for testing
+Roboflow is used to convert the Open Image dataset into YOLOv6 formate
+train model using PyTorch
+detecting a Car in video
+This project Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project I: Flower Species Dataset</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-1/</link>
+      <pubDate>Tue, 21 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-1/</guid>
+      <description>The Model is to classify the species of Flower Data Version Control(DVC) Whenever the data will be updated. The model will update automatically. and will deploy in production automatically. mlflow is used. Which saves the logs of each model, which lets us know the performance of the model. And its biggest advantage is that we can deploy this model on any cloud service. (Cloud services like (AWS Sagemaker, Azure, GCP)) Optimized Random Forest Classifier.</description>
+    </item>
+    
+  </channel>
+</rss>

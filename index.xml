@@ -1,0 +1,90 @@
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Raza Rizwan</title>
+    <link>https://rrizwan98.github.io/Raza_portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Raza Rizwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://rrizwan98.github.io/Raza_portfolio/index.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Project I: Flower Species Dataset</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-1/</link>
+      <pubDate>Tue, 21 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-1/</guid>
+      <description>The Model is to classify the species of Flower Data Version Control(DVC) Whenever the data will be updated. The model will update automatically. and will deploy in production automatically. mlflow is used. Which saves the logs of each model, which lets us know the performance of the model. And its biggest advantage is that we can deploy this model on any cloud service. (Cloud services like (AWS Sagemaker, Azure, GCP)) Optimized Random Forest Classifier.</description>
+    </item>
+
+
+    <item>
+      <title>Chapter II: Car Detection</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-2/</link>
+      <pubDate>Mon, 18 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-2/</guid>
+      <description>we used the Open Image dataset. 990 images for train, 70 images validation, and 30 images for testing
+Roboflow is used to convert the Open Image dataset into YOLOv6 formate
+train model using PyTorch
+detecting a Car in video
+This project Github Repository</description>
+    </item>
+
+    <item>
+      <title>Chapter III: Object Recognition in Kitchen</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-3/</link>
+      <pubDate>Mon, 08 June 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-3/</guid>
+      <description>We have used to solve this problem as an AWS sagemaker. Because
+Sagemaker provides a facility for building, training, and deploying machine learning models. 
+used Sagemaker Tensorflow built-in frameworks. 
+we used the Custom Dataset. 590 images for train,180 images validation, and 70 images for testing.
+Roboflow is used to convert the Custom Dataset into Object Recognition formate.
+And also Deploy model in Sagemaker instance_type='ml.t5.Large'
+Object Recognition in Kitchen Github Repository</description>
+    </item>
+
+
+    <item>
+      <title>Chapter IV: NLP Text Classification</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/post/project-4/</link>
+      <pubDate>Mon, 02 July 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/post/project-4/</guid>
+      <description>Created a model that classifies the Spanish news articles.
+To solve this problem, I have used two different Algorithms/Frameworks.
+1. Used Sagemaker Built-in Algorithm Blazing text is used for Text classification.
+2. we have used Sagemaker SKlearn Framework. The SKlearn framework is used so that we can use machine learning algorithms in SageMaker. like we have used LogisticRegression.
+Data Preprocessing Steps: Porter Stemming, Converting TO LowerCase, Removing Punctuation and Low frequency term filtering (count < 3).
+Store Data in s3 Bucket
+Hosting Data In Prodection Environment in Sagemaker instance_type='ml.t2.medium'
+NLP Text Classification Github Repository</description>
+    </item>
+    
+
+
+    <item>
+      <title>About</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/about/</guid>
+      <description>Data Science MLOps and AWS Machine learning are my passions. My name is Raza Rizwan and I have been working as a Freelancer, in the data science field doing AWS Machine learning &amp;amp; MLOps for the last 2 years of providing solutions to our clients all over the world.
+Good customer service is key for us, and no project is completed until our client is 100% satisfied.
+We believe &amp;ldquo;Customer is KING&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rrizwan98.github.io/Raza_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rrizwan98.github.io/Raza_portfolio/contact/</guid>
+      <description>Contact me on these social media platforms.
+Plateform URL Email: rrizwan1998@gmail.com Linkedin: https://www.linkedin.com/in/raza-rizwan98 Facebook: https://m.facebook.com/raza.rizwan.7798 Gihub: https://github.com/rrizwan98 Sagemaker Fiver gig: https://www.fiverr.com/share/wVgeyo MLOps Fiver gig: https://www.fiverr.com/share/W0prp7 </description>
+    </item>
+    
+  </channel>
+</rss>
